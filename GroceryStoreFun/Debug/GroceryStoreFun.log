@@ -1,0 +1,8 @@
+﻿  Data.cpp
+  main.cpp
+C:\Users\kaitlyn.hornbuckle\source\repos\GroceryStoreFun\GroceryStoreFun\main.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Queue.cpp
+  QueueNode.cpp
+  test.cpp
+  Generating Code...
+  GroceryStoreFun.vcxproj -> C:\Users\kaitlyn.hornbuckle\source\repos\GroceryStoreFun\Debug\GroceryStoreFun.exe
