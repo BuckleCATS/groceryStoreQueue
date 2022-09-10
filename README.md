@@ -1,4 +1,4 @@
-# groceryStoreQueue
+# Grocery Store Queue
 
 This project simulates the line of a grocery store in the form of a queue.
 
